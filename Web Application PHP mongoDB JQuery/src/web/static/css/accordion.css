@@ -1,0 +1,36 @@
+h3{
+    background-color:#A9A90F;
+    text-align:center;
+    color:#FFFFFF;
+    cursor:pointer;
+    padding:1vw;
+    font-size:1.4vw;
+}
+p{
+    color:#FFFFFF;
+    width:100%;
+    font-size:1.2vw;
+    margin:0.5vw auto 0.5vw auto;
+}
+.history_event{
+    margin:0.5vw auto 0.5vw auto;
+    background-color:#000000;
+    text-align:center;
+    height:4.5vw
+}
+ul{
+    list-style:none;
+    font-size:4vw;
+    color:#FFFFFF;
+    margin:0.5vw;
+    text-align:center;
+}
+.history_event p{
+    margin:0;
+    padding:0;
+    width:100%;
+    font-weight:700;
+    margin-top:1vw;
+    color:#A9A90F;
+}
+

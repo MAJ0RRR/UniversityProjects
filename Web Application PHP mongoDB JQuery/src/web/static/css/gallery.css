@@ -1,0 +1,78 @@
+html{
+    background-color:#6D6D6D;
+}
+a{
+    display:inline-block;
+    border:#000000 dashed .5vw;
+}
+#nav{
+    text-align:center;
+    width:80%;
+    margin:1vw auto 1vw auto;
+    height:5vw;
+    align-items: center;
+}
+.paging_btn{
+    cursor:pointer;
+    border:0.1vw #11AA11 solid;
+    margin-top:1.5vw;
+    margin-left:0.5vw;
+    margin-right:0.5vw;
+    background-color:#A9A90F;
+    color: #11FF11;
+    width:2vw;
+    height:2vw;
+}
+
+#back{
+    cursor:pointer;
+    display: block;
+    background-color: #000000;
+    text-decoration: none;
+    border: #FFFFFF solid 0.1vw;
+    width:30%;
+    margin:2vw auto 2vw auto;
+    padding:1vw;
+    color:#FFFFFF;
+    text-align:center;
+}
+
+.photo{
+    float:left;
+    width:320px;
+    height:250px;
+    text-align:center;
+    margin-top:0.4vw;
+}
+#gallery{
+    margin-left:auto;
+    margin-right:auto;
+    width:80%;
+    background-color:#444444;
+}
+p{
+    border: 0.1vw #A9A90F solid;
+    margin-left:auto;
+    margin-right:auto;
+    width:70%;
+    font-weight:700;
+    color:#FFFFFF;
+}
+#saved_photos{
+    margin-left:auto;
+    margin-right:auto;
+    font-size:3vw;
+    color:#F4D1C2;
+    border:none;
+    text-align:center;
+}
+#remember{
+    cursor:pointer;
+    margin: 2% 40%;
+    background-color:#000000;
+    color:#11AA11;
+    font-size:1.4vw;
+    border:#FFFFFF solid 0.2vw;
+    width:20%;
+    height:10%;
+}
